@@ -12,6 +12,8 @@ dependencies:
   - xarray
   - plotly
   - requests
+  - statsmodels
+  - tqdm
   - pip:
     - git+https://github.com/tensorly/tensorly.git
     - wordcloud
